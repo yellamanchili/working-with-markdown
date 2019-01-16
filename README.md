@@ -91,9 +91,9 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 
 ##  About
 
-Denise Case
+Vamshi KrishnanYellamanchili
 
-dcase@nwmissouri.edu
+S534746@NWmissouri.edu
 
 ## New Section 
 
