@@ -66,6 +66,7 @@ Generally, store your embedded images in your repo if they are original, or refe
 Images look like links with an ! in front, for example, an external image can be displayed as shown below. If desired, use a title as we did with links above.
 
 ![Hosted image](https://upload.wikimedia.org/wikipedia/commons/0/02/Lynx_kitten.jpg "Lynx Kitten")
+![Ex](http://personal.psu.edu/xqz5228/jpg.jpg)
 
 ## Displaying Local Images
 
@@ -90,9 +91,9 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 
 ##  About
 
-Denise Case
+Vamshi Krishna Yellamanchili
 
-dcase@nwmissouri.edu
+S534746@nwmissouri.edu
 
 ## New Section 
 
